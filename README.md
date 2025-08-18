@@ -60,4 +60,4 @@ Connect with messaging platforms (Telegram, WhatsApp, etc.)
 
 # output
 
-
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/8ec689de-5659-475e-9256-0c76a3d61878" />
