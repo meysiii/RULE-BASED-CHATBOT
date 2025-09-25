@@ -34,6 +34,8 @@ Interface: Console-based (or GUI if you added one)
 
 # 🚀 How It Works
 
+https://github.com/meysiii/RULE-BASED-CHATBOT
+
 User enters a message through the console/GUI.
 
 The chatbot matches the input with predefined rules.
