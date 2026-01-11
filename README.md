@@ -97,10 +97,10 @@ Integrate with platforms like Telegram or WhatsApp
 
 # 📸 Output
 
-(Add a screenshot of your chatbot UI here)
+<img width="922" height="872" alt="Image" src="https://github.com/user-attachments/assets/17114761-ead7-4ca7-9f06-16bdda115556" />
 
 # 👤 Author
 
 M.S. Meysintha
 2nd Year B.E. CSE
-V.S.B College of Engineering Technical Campus, Coimbatoree-5659-475e-9256-0c76a3d61878" />
+V.S.B College of Engineering Technical Campus, Coimbatore
